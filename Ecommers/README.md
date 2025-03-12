@@ -1,9 +1,6 @@
 # eCommerce API
 
-## Base URL
-```
-https://ecommerce-api-aco4.onrender.com
-```
+
 
 ## Authentication
 
